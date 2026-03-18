@@ -45,7 +45,7 @@ const POPULAR_DOMAINS = [
   'hey.com',
   // Proton
   'proton.me',
-  'pm.com',
+  'pm.me',
   'protonmail.com',
   'zoho.com',
   'yandex.com',
