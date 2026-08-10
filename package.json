@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZooTools/mail-spell-checker.git"
+    "url": "git+https://github.com/smashsend/email-spell-checker.git"
   },
   "license": "MIT",
   "author": {
-    "name": "ZooTools, Inc",
-    "email": "jobs@zootools.co",
-    "url": "https://zootools.co"
+    "name": "SmashSend",
+    "email": "help@smashsend.com",
+    "url": "https://smashsend.com"
   },
   "engines": {
     "node": ">=12.0"
@@ -44,9 +44,9 @@
     "spellchecker"
   ],
   "bugs": {
-    "url": "https://github.com/ZooTools/mail-spell-checker/issues"
+    "url": "https://github.com/smashsend/email-spell-checker/issues"
   },
-  "homepage": "https://github.com/ZooTools/mail-spell-checker#readme",
+  "homepage": "https://smashsend.com/tools/email-spell-checker",
   "devDependencies": {
     "@ryansonshine/commitizen": "4.2.8",
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
