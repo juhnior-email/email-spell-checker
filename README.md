@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://zootools.co/?ref=email-spell-checker-github">
+  <a href="https://smashsend.com/tools/email-spell-checker?ref=email-spell-checker-github">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://open-source.zootools.co/email-spell-checker/logo_email-spell-checker.png?raw=true" />
-      <img src="https://open-source.zootools.co/email-spell-checker/logo_email-spell-checker.png?raw=true" width="456px" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://smashsend.com/brand/smashsend_white_logo.png" />
+      <img src="https://smashsend.com/brand/smashsend_logo.png" width="320px" />
     </picture>
   </a>
 </p>
@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://open-source.zootools.co/email-spell-checker/2022_10_22_demo_version_2_looped.gif" alt="Alt Text">
+  <img src="https://smashsend.com/open-source/email-spell-checker/demo.gif" alt="Typing a misspelled address and the checker suggesting the correct domain">
 </p>
 
 <br/>
@@ -31,7 +31,7 @@
 
 <b>EmailSpellChecker</b> is a lightweight JavaScript module written in TypeScript that suggests the right domain when your users misspell it in an email address.
 
-At [ZooTools, an email marketing and referral tool](https://zootools.co?ref=email-spell-checker-github), we validate thousands of misspelled emails daily with _EmailSpellChecker_ and it helped us to reduce bounced emails by 30%.
+At [SmashSend, an email marketing and referral tool](https://smashsend.com?ref=email-spell-checker-github), we validate thousands of misspelled emails daily with _EmailSpellChecker_ and it helped us to reduce bounced emails by 30%.
 
 It's by far the <strong>easiest way to reduce misspelled email addresses</strong> in your web apps and server.
 
@@ -65,7 +65,7 @@ Here are some highly-requested tutorials.
 - 🟦 React: Validating email spell in React (coming soon)
 - [🟩 Node with Express.js: Validating email spell in Node](./demos/node-express/)
 
-If you want to write a tutorial [send a PR](https://github.com/zootools/email-spell-checker/pulls) or [create an issue](https://github.com/zootools/email-spell-checker/issues) if you want to ask for one.
+If you want to write a tutorial [send a PR](https://github.com/smashsend/email-spell-checker/pulls) or [create an issue](https://github.com/smashsend/email-spell-checker/issues) if you want to ask for one.
 
 ## Getting Started in 5 minutes
 
@@ -148,7 +148,7 @@ Updates
 
 Customer support
 
-- 🤝 Do you have bugs or issues? Email [github@zootools.co](github@zootools.co) or [create an issue](https://github.com/zootools/email-spell-checker/issues)
+- 🤝 Do you have bugs or issues? Email [help@smashsend.com](mailto:help@smashsend.com) or [create an issue](https://github.com/smashsend/email-spell-checker/issues)
 
 Socials
 
@@ -157,23 +157,22 @@ Socials
 
 ## Maintainers
 
-This library is used and maintained by <a href="https://panda.zootools.co/">ZooTools: Growth and marketing tools</a> for ambitious teams.
+This library is used and maintained by <a href="https://smashsend.com?ref=github-spell">SmashSend: Growth and marketing tools</a> for ambitious teams.
 
-We use this library heavily in <a href="https://panda.zootools.co/?ref=github-spell">ZooTools Panda, a MailChimp alternative for sending viral marketing campaigns</a>.
+We use this library heavily in <a href="https://smashsend.com/compare/mailchimp-alternative?ref=github-spell">SmashSend, a MailChimp alternative for sending viral marketing campaigns</a>.
 
-You can view examples of the use of this library <a href="https://panda.zootools.co/examples?ref=github-spell">here</a>.
+You can try the checker live on <a href="https://smashsend.com/tools/email-spell-checker?ref=github-spell">the tool page</a>.
 
 ## We're hiring!
 
 Badass developer looking for a job? [Join the grind](https://www.notion.so/zootools/Careers-at-ZooTools-2e2815794b14415daca297506c54cb69)!
 
 <p>
-  <a href="https://zootools.co?ref=email-spell-checker-github">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://open-source.zootools.co/made_with_love.png?raw=true">
-      <img src="https://open-source.zootools.co/made_with_love.png?raw=true" height="80">
-    </picture>
-  </a>
+  <!-- The original "made with love" badge lived on open-source.zootools.co,
+       a Bunny CDN whose storage zone was emptied during the ZooTools
+       decommission. No copy survives in any repo and the Wayback Machine has
+       no snapshot, so it is text now — which also cannot 404. -->
+  Made with love by <a href="https://smashsend.com?ref=email-spell-checker-github">SmashSend</a>
 </p>
 
 [downloads-img]: https://img.shields.io/npm/dt/@zootools/email-spell-checker?labelColor=475873&color=6ead0a
@@ -182,8 +181,8 @@ Badass developer looking for a job? [Join the grind](https://www.notion.so/zooto
 [npm-url]: https://www.npmjs.com/package/@zootools/email-spell-checker
 [bundlephobia-img]: https://badgen.net/bundlephobia/minzip/@zootools/email-spell-checker?labelColor=475873&color=6ead0a
 [bundlephobia-url]: https://bundlephobia.com/package/@zootools/email-spell-checker
-[issues-img]: https://img.shields.io/github/issues/zootools/email-spell-checker?labelColor=475873&color=6ead0a
-[issues-url]: https://github.com/zootools/email-spell-checker/issues
+[issues-img]: https://img.shields.io/github/issues/smashsend/email-spell-checker?labelColor=475873&color=6ead0a
+[issues-url]: https://github.com/smashsend/email-spell-checker/issues
 [codecov-img]: https://codecov.io/gh/zootools/@zootools/email-spell-checker/branch/main/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/zootools/@zootools/email-spell-checker
 [semantic-release-img]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
